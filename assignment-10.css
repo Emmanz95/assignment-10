@@ -18,6 +18,10 @@ nav p{
 	font-size: 20px;
 }
 
+h6{
+	text-align: center;
+}
+
 .header{
 	min-height: 70px;
 	background-color: #1E262B;
@@ -52,42 +56,42 @@ nav p{
 
 .box4{
 	min-height: 350px;
-	background-color: #2b343a;
+	background-color: #fff;
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
 
 .box5{
 	min-height: 350px;
-	background-color: #2b343a;
+	background-color: #fff;
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
 
 .box6{
 	min-height: 165px;
-	background-color: #2b343a;
+	background-color: #fff;
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
 
 .box7{
 	min-height: 350px;
-	background-color: #2b343a;
+	background-color: #fff;
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
 
 .box8{
 	min-height: 350px;
-	background-color: #2b343a;
+	background-color: #fff;
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
 
 .box9{
 	min-height: 350px;
-	background-color: #2b343a;
+	background-color: #fff;
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
