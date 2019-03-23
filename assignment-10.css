@@ -22,6 +22,10 @@ h6{
 	text-align: center;
 }
 
+h4{
+	text-align: right;
+}
+
 .header{
 	min-height: 70px;
 	background-color: #1E262B;
