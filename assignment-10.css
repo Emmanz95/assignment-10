@@ -126,3 +126,30 @@ h4{
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
+
+footer{
+	min-height: 100px;
+	text-align: center;
+}
+
+.wrapper{
+	width: 950px;
+	margin: 0 auto;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-youtube {
+  color: purple;
+}
+
+.fa-instagram {
+  color: purple;
+}
